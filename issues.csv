@@ -1,0 +1,7 @@
+scanId,projectId,id,name,severity,labels,assigneeIds,status,occurrences,createdAt,url,method,protocol
+8DATCC1RmYRk4CEf6tNKSH,hmymTe5W7ym5pFmhGVCEJd,bRaWm7ZaWUT2Kyqc15fMRa,Secret Tokens Leak,Medium,,,new,1,2025-01-29T14:08:40.654Z,https://juice-shop.herokuapp.com/rest/admin/application-configuration,GET,http
+8DATCC1RmYRk4CEf6tNKSH,hmymTe5W7ym5pFmhGVCEJd,9HMWvr6uMuPV93Q2qyV4ir,Secret Tokens Leak,Medium,,,new,1,2025-01-29T14:08:19.724Z,https://juice-shop.herokuapp.com/main.js,GET,http
+8DATCC1RmYRk4CEf6tNKSH,hmymTe5W7ym5pFmhGVCEJd,9pzJnExnxoD4TNq5B2mDhe,CSS Injection,Medium,,,new,1,2025-01-29T14:07:17.221Z,https://juice-shop.herokuapp.com/,GET,http
+8DATCC1RmYRk4CEf6tNKSH,hmymTe5W7ym5pFmhGVCEJd,sqWdWpce1FVjqWirB4v1AB,Missing Strict-Transport-Security Header,Low,,,new,1,2025-01-29T14:05:57.371Z,https://juice-shop.herokuapp.com/,GET,http
+8DATCC1RmYRk4CEf6tNKSH,hmymTe5W7ym5pFmhGVCEJd,418RaLGmfK1HgJhkkrnwC2,Missing Content-Security-Policy Header,Low,,,new,1,2025-01-29T14:05:57.371Z,https://juice-shop.herokuapp.com/,GET,http
+8DATCC1RmYRk4CEf6tNKSH,hmymTe5W7ym5pFmhGVCEJd,oDR48nZ3KUZxg7AsRD1yC1,Misconfigured Access-Control-Allow-Origin Header,Low,,,new,1,2025-01-29T14:05:57.371Z,https://juice-shop.herokuapp.com/,GET,http

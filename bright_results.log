@@ -1,0 +1,7 @@
+2025-02-05 10:14:58 - INFO - Iniciando processo de coleta de issues...
+2025-02-05 10:14:58 - INFO - Obtendo lista de scans...
+2025-02-05 10:14:58 - INFO - Fazendo requisição para https://app.brightsec.com/api/v2/scans?limit=1
+2025-02-05 10:14:58 - INFO - Obtendo issues para o scan ID: 8DATCC1RmYRk4CEf6tNKSH
+2025-02-05 10:14:58 - INFO - Fazendo requisição para https://app.brightsec.com/api/v1/scans/8DATCC1RmYRk4CEf6tNKSH/issues
+2025-02-05 10:15:00 - INFO - Arquivo issues.json salvo com sucesso.
+2025-02-05 10:15:00 - INFO - Arquivo issues.csv salvo com sucesso.
