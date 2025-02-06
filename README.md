@@ -7,8 +7,8 @@ Este script coleta informações sobre **scans** e **issues** da API da BrightSe
 
 ### 1️⃣ Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/brightsec-scanner.git
-cd brightsec-scanner
+git clone https://github.com/wwesleyalves/Bright-Results.git
+cd Bright-Results
 ```
 
 ### 2️⃣ Instalar as dependências
@@ -41,7 +41,7 @@ O script irá:
 
 ## 📁 Estrutura dos Arquivos
 ```
-brightsec-scanner/
+Brightsec-Results/
 │── main.py          # Script principal
 │── .env                # Configurações (API Key) e limites de numero de scans
 │── bright_results.log         # Logs das execuções
@@ -54,7 +54,7 @@ brightsec-scanner/
 ---
 
 ## 🔧 Logs
-O script gera um log detalhado em `scanner.log`, incluindo:
+O script gera um log detalhado em `bright_results.log`, incluindo:
 - Erros de requisição
 - Processamento dos dados
 - Status dos arquivos gerados
